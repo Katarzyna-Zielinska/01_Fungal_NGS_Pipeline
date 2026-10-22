@@ -1,4 +1,4 @@
-# Project 1 — Candida auris Fungal NGS Pipeline
+# Project 1. Candida auris Fungal NGS Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-Workflow-23AA62?logo=nextflow&logoColor=white)
