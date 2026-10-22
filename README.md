@@ -174,4 +174,8 @@ Sample identifiers and phenotype labels are recorded in `metadata/samples.tsv`. 
 
 ## Author
 
-Add your preferred author name or profile link here.
+**Katarzyna Zielińska**  
+Bioinformatics Portfolio  
+2026
+
+Created as part of a Bioinformatics Portfolio project focused on NGS data processing and quality control, RNA-seq workflows, and fungal genomics using Python, Linux, and Nextflow.
