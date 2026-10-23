@@ -1,0 +1,4 @@
+ba607b7ad2c757c510b707e5ba6d89f9  ncbi_dataset/data/assembly_data_report.jsonl
+6e4a0b5a3c887883674a6ae1f2b860fc  ncbi_dataset/data/GCA_002759435.2/GCA_002759435.2_Cand_auris_B8441_V2_genomic.fna
+999740f35a0b738f9bd4320281df1f18  ncbi_dataset/data/GCA_002759435.2/genomic.gff
+dc8557b6f61a3871f25b114a1dbc2811  ncbi_dataset/data/dataset_catalog.json
