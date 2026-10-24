@@ -1,0 +1,46 @@
+# Nextflow runtime and temporary files
+.nextflow/
+.nextflow.log*
+work/
+*.bak
+*.backup
+*.failed_backup
+
+# Raw and intermediate sequencing data
+data/raw/
+data/trimmed/
+data/bam/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.bam.bai
+*.bai
+*.cram
+*.crai
+
+# Reference genome indexes
+data/reference/hisat2_index*/
+*.bt2
+*.bt2l
+*.ht2
+*.ht2l
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.failed_backup
